@@ -147,6 +147,7 @@ with st.sidebar:
     with st.form(key='research_form'):
         topic = st.text_input("Select the ticket")
         submit_button = st.form_submit_button(label = "Run Research")
+        
 if submit_button:
     if not topic:
         st.error("Please fill the ticket field")
