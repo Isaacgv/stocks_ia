@@ -28,6 +28,8 @@ This repository provides a comprehensive tool for analyzing stock prices and gen
    * Ensure `OPENAI_API_KEY` is set in your environment variables.
 3. Run the Streamlit app: `streamlit run app.py`
 
+![screenshot](image/README/app.png)
+
 ## Agents and Tasks
 
 ### Agents
